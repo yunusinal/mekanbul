@@ -1,8 +1,5 @@
 # Mekabul React Front-End
 
-Vercel linki: [https://mekanbul-steel.vercel.app/](https://mekanbul-steel.vercel.app/)
-
-Localhost linki: [http://localhost:5173/](http://localhost:5173/)
 
 **Uygulamayı çalıştırmak için:**
 ```
@@ -47,12 +44,4 @@ npm run dev
 3. **public/javascripts:** Bootstrap için gerekli, sitenin interaktif bir hale gelmesine olanak sağlayan JavaScript dosyalarını içerir.
 4. **public/favicon.ico:** Websitesi ikonu
 
-## Mocha ve Selenium İle Arayüz Testi
 
-```
-npm run test
-```
-
-## Sitenin Tüm Bileşen Yapısı
-
-![Bileşenler](<Frontend Tasarım.png>)
